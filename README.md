@@ -1,18 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/dhaval-cover.png)
 
 ### Hi👋 I'm Dhaval Joshi 👨‍💻
-<br/>
-<a href="https://twitter.com/joshi_dhaval97">
-<img align="left" alt="Twitter | Dhaval Joshi" width="22px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/twitter-app-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in/joshidhaval97/">
-<img align="left" alt="LinkedIn | Dhaval Joshi" width="22px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/linkedin-app-icon.svg" />
-</a>
-<a href="https://www.youtube.com/DTech-dhavaljoshi">
-<img align="left" alt="YouTube | Dhaval Joshi" width="22px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/youtube-color-icon.svg" />
-</a>
-<br />
-<br />
 
 I am an YouTuber with experiance in Embedded and Electronics System. <br />
 Solutions-oriented embedded professional with years of proven experience in embedded technologies in designing and implementing Consumer, Multimedia, Education, Military, Commercial and Medical products.
@@ -35,19 +23,34 @@ Worked on development of software architecture including Consumer Electronics, M
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m Embedded Software Engineer.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
 - ✨ Read more about me at [Blog](https://joshidhaval97.wordpress.com/)
+- 📫 How to reach me: Any of the Social-Media Platform
+<a href="https://twitter.com/joshi_dhaval97">
+<img align="left" alt="Twitter | Dhaval Joshi" width="40px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/twitter-app-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joshidhaval97/">
+<img align="left" alt="LinkedIn | Dhaval Joshi" width="40px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/linkedin-app-icon.svg" />
+</a>
+<a href="https://www.youtube.com/DTech-dhavaljoshi">
+<img align="left" alt="YouTube | Dhaval Joshi" width="40px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/youtube-color-icon.svg" />
+</a>
+<br />
+<br />
+<br />
+<br />
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br />
+<br />
 
 ![Dhaval's github stats](https://github-readme-stats.vercel.app/api?username=joshidhaval&show_icons=true&hide_border=true)
 
