@@ -21,14 +21,12 @@ Worked on development of software architecture including Consumer Electronics, M
 - Cross compiled Qt 5 for Realtek RTD1295 platform using buildroot and custom Linux kernel.
 - Write white paper on “Cybersecurity for MCU: Secure Firmware Update” explaining the risks associated with the traditional firmware update and importance of Secure Firmware Update and its infrastructure.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
-
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m Embedded Software Engineer.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 🔭 I love Astronomy and Space Exploration Programmes
+- 👨‍💻 I’m Embedded Software Engineer
 - ✨ Read more about me at [Blog](https://joshidhaval97.wordpress.com/)
-- 📫 How to reach me: Any of the Social-Media Platform
+- 📫 You can reach me out at below platforms
 <a href="https://twitter.com/joshi_dhaval97">
 <img align="left" alt="Twitter | Dhaval Joshi" width="40px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/twitter-app-icon.svg" />
 </a>
@@ -49,6 +47,7 @@ Worked on development of software architecture including Consumer Electronics, M
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
+<img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
 
 <br />
 <br />
