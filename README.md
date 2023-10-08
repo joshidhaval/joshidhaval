@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/DTech.png)
+![Banner](https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/dhaval-cover.png)
 
 ### Hi👋 I'm Dhaval Joshi 👨‍💻
 <br/>
