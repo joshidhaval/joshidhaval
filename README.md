@@ -1,14 +1,15 @@
-### Dhaval Joshi 👨‍💻
+![Banner](https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/DTech.png)
 
+### Hi👋 I'm Dhaval Joshi 👨‍💻
 <br/>
 <a href="https://twitter.com/joshi_dhaval97">
-<img align="left" alt="Dhaval Joshi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Twitter | Dhaval Joshi" width="22px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/twitter-app-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joshidhaval97/">
-<img align="left" alt="Dhaval Joshi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="LinkedIn | Dhaval Joshi" width="22px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/linkedin-app-icon.svg" />
 </a>
 <a href="https://www.youtube.com/DTech-dhavaljoshi">
-<img align="left" alt="Dhaval Joshi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="YouTube | Dhaval Joshi" width="22px" src="https://raw.githubusercontent.com/joshidhaval/joshidhaval/master/resources/youtube-color-icon.svg" />
 </a>
 <br />
 <br />
@@ -40,7 +41,6 @@ Worked on development of software architecture including Consumer Electronics, M
 - 🔭 I’m Embedded Software Engineer.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent video on [YouTube](https://www.youtube.com/watch?v=0f6GHl4W_fk)
 - ✨ Read more about me at [Blog](https://joshidhaval97.wordpress.com/)
 
 **Languages and Tools:**
@@ -50,3 +50,11 @@ Worked on development of software architecture including Consumer Electronics, M
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Dhaval's github stats](https://github-readme-stats.vercel.app/api?username=joshidhaval&show_icons=true&hide_border=true)
+
+<br />
+<br />
+
+**Want to know more about Embedded and Electronics ?? 🤔**
+- ⚡ Check out my recent video on [YouTube](https://www.youtube.com/watch?v=0f6GHl4W_fk)
+
+[![Watch the video](https://img.youtube.com/vi/xijtT4NkiaQ/maxresdefault.jpg)](https://youtu.be/xijtT4NkiaQ?si=rAOLaRGM9sPSqV2u)
